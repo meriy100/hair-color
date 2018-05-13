@@ -1,0 +1,48 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/meriy100/git/hair-color/app/controllers/home_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/meriy100/git/hair-color/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/Users/meriy100/git/hair-color/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/meriy100/git/hair-color/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/meriy100/git/hair-color/app/helpers/application_helper.rb": [
+        0,
+        0
+      ],
+      "/Users/meriy100/git/hair-color/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/meriy100/git/hair-color/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/meriy100/git/hair-color/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1526191093
+  }
+}
