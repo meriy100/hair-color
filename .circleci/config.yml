@@ -3,7 +3,7 @@
 # Check https://circleci.com/docs/2.0/language-ruby/ for more details
 #
 ruby_image: &ruby_image
-  circleci/ruby:2.4-node-browsers
+  circleci/ruby:2.4.3-node-browsers
 bundle_cache_key: &bundle_cache_key
   v1-dependencies-{{ checksum "Gemfile.lock" }}
 version: 2
