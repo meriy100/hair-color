@@ -4,7 +4,7 @@ module.exports = {
     application: './app/javascript/application.tsx'
   },
   output: {
-    path: `${__dirname}/../../app/assets/javascripts`,
+    path: `${__dirname}/../../../app/assets/javascripts`,
     filename: '[name].bundle.js'
   },
   resolve: {

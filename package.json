@@ -2,9 +2,9 @@
   "name": "hair-color",
   "version": "1.0.0",
   "scripts": {
-    "release": "webpack --config config/frontend/webpack_production.config.js",
-    "build": "webpack --config config/frontend/webpack.config.js",
-    "watch": "webpack --watch --config config/frontend/webpack.config.js"
+    "release": "webpack --config config/frontend/production/webpack.config.js",
+    "build": "webpack --config config/frontend/development/webpack.config.js",
+    "watch": "webpack --watch --config config/frontend/development/webpack.config.js"
   },
   "devDependencies": {
     "@types/actioncable": "0.0.2",
